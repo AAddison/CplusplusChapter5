@@ -13,7 +13,7 @@ void printmessage()
 }
 
 
-int main()  // main is a function that takes no inputs and returns an int, it returns 0 which is specified at the bottom
+int Chap5main()  // main is a function that takes no inputs and returns an int, it returns 0 which is specified at the bottom
 {
 	// use addition function
 	int a = 5;
